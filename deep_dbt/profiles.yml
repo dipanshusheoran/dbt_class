@@ -1,11 +1,1 @@
-deep_dbt:
-  outputs:
-    dev:
-      catalog: dbt_tutorial_dev
-      host: dbc-aa20238b-704d.cloud.databricks.com
-      http_path: /sql/1.0/warehouses/31a45b04b3251099
-      schema: source
-      threads: 1
-      token: dapi7e10d73be334c0026f83623f02efccab
-      type: databricks
-  target: dev
+
