@@ -1,0 +1,10 @@
+sources:
+  - name: source
+    database: dbt_tutorial_dev  
+    schema: source  
+    tables:
+      - name: customer
+      - name: date
+      - name: product
+      - name: stores
+      - name: returns
